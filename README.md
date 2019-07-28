@@ -21,7 +21,6 @@ Create dynamic code in D3.js to search multiple inputs (date/time, city, state, 
 # Screen Shot:
 
 ![Webpage Output](https://user-images.githubusercontent.com/48166327/62001503-e08e6980-b0a6-11e9-9bf5-747520221253.PNG)
-
 ![Webpage Output(2)](https://user-images.githubusercontent.com/48166327/62001504-e2582d00-b0a6-11e9-9779-864afe8676bc.PNG)
 
 
